@@ -1,5 +1,5 @@
 # SENAI Atividade 1
-A study repository for SENAI courses
+A study repository for SENAI course
 
 1. Git instalado e configurado
 
